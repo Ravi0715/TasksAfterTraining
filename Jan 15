@@ -1,0 +1,9 @@
+1)A file is given which consists of 3 columns : date, city and temperature. For ex: 
+Date City Temperature 
+09-11-2015	Delhi 45 
+09-11-2015 Bangalore 24 
+09-11-2015 Ranchi 28 
+
+And it should support following type of queries: 
+A) What is the temperature of Bangalore on 9th November? 
+B) Give 5 hottest/coldest cities name on 9th November
