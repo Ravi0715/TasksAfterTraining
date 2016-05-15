@@ -1,0 +1,9 @@
+1) Write a program to read a paragraph, and count all the occurrences of each word.
+
+2) Write a program to find the frequency of each character for a given string.
+
+3) Write a program to read input as a sentence and append Z to the left for every word which ends with letter 'e'.
+( e.g. Input: He has ease and please.  Output is HZe has easZe and pleasZe)
+
+4) Write a program to read list of integers and pick all the numbers whose sum of the digits up to last fold is 9.
+(e.g.: 567=18=9)
