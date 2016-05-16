@@ -7,3 +7,7 @@ Date City Temperature
 And it should support following type of queries: 
 A) What is the temperature of Bangalore on 9th November? 
 B) Give 5 hottest/coldest cities name on 9th November
+
+
+2) Find the second most repeating number in an array without using extra storage. 
+E.g.. [6,8,1,2,6,3,6,2,3,2,6]
