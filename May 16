@@ -1,0 +1,20 @@
+May 16, 2016 Tasks
+1)Given a Integer, find the maximum number that can be formed from the digits. 
+Input : 8754365 
+output : 8765543
+
+
+2) Find the longest running positive sequence in an array - 
+Eg - [1,2,-3,2,3,4,-6,1,2,3,4,5,-8,5,6] 
+It should return 5, with start index : 1 and ends at 5
+
+
+3) Write a program to test whether string s2 is obtained by rotating the string s1 by 2 places. 
+e.g S1="eagles" S2="elesag" return true 
+S1="quality" S2="lityqua" return false
+
+
+4) Write a program to find duplicate elements in array and total count of duplicate elements. 
+eg. arr={5,3,4,6,7,5,3,2,1} 
+Duplicate elements:- 5,3 
+Total duplicate count:- 2
