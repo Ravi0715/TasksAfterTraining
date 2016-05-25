@@ -1,0 +1,15 @@
+1) Task: Write a program for generating all the possible combination of a given character. 
+
+Example:- 
+
+Input: {a,b,c} 
+
+output: {a,b,c,ab,ac,ca,ba,cb,bc,abc,bca,cab,cba,acb,bac}
+
+2)Task: Write a  program to accept two strings and print characters which are not present in first string. 
+
+Example: 1 string: apple 
+
+2 string: aeroplane 
+
+output: ro
