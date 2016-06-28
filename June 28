@@ -1,0 +1,5 @@
+1)Write a program to take integer array and read also a integer to check it's nth occurrence in the above array and print it's location.
+
+SampleOutput:-
+
+E.g.: [ 1,5,8,9,2,1,3,1,2,7,1,2,3,8,2,1,9], input is 1, occurrence is 3 then output is 7
